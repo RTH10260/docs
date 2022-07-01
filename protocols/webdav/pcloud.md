@@ -3,6 +3,10 @@ pCloud
 
 > [pCloud](https://www.pcloud.com/) is encrypted cloud storage, where you can store your personal files, backup your PC or share your business documents with your colleagues.
 
+As of February 2022 WebDAV access is a privilege of subscription accounts only.
+
+WebDAV does not work on accounts with 2FA protection in place.
+
 ## Connecting
 
 ### Connection Profiles
